@@ -1,0 +1,36 @@
+#fondo{
+    position: absolute;
+    width:100%;
+}
+#video{
+    position: absolute;
+    height:70% ;
+    width:100% ;
+    top: 15%;
+    right: 1%;
+}
+#boton1{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 10%;
+}
+#boton2{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 23%;
+}
+#boton3{
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 77%;
+}
+#titulo{
+    position: absolute;
+    font-family:"mifuente";
+    margin-top: 2%;
+    margin-left: 40%;
+}
+@font-face {
+    font-family:"mifuente";
+    src: url(fuente/Base\ 02.ttf);
+}
